@@ -1,0 +1,12 @@
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\bin\Debug\netstandard2.0\PartyFunds.deps.json
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\bin\Debug\netstandard2.0\PartyFunds.dll
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\bin\Debug\netstandard2.0\PartyFunds.pdb
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\PartyFunds.csprojAssemblyReference.cache
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\PartyFunds.AssemblyInfoInputs.cache
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\PartyFunds.AssemblyInfo.cs
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\PartyFunds.csproj.CoreCompileInputs.cache
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\PartyFunds.dll
+C:\Users\kmrad\Documents\GitHub\partyFunds\PartyFunds\PartyFunds\PartyFunds\obj\Debug\netstandard2.0\PartyFunds.pdb
